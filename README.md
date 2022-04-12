@@ -1,0 +1,1 @@
+Simple project for educational purpose. Kafka receives some events about users adding some items to their carts / deleting carts etc;
