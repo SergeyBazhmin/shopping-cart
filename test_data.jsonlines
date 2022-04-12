@@ -1,0 +1,2 @@
+{"name":"cart_deleted","price":100,"quantity":1,"order_number":"R638241344","store_id":2, "user":{"user_id":2,"uuid":"abstract_user"},"product":{"product_sku":"","product_id":1},"timestamp":1629827596}
+{"name": "cart_product_changed", "price": 100.0, "quantity": 1,  "order_number": "abstract_order", "store_id": 2, "user": {"id": 2, "uuid": "abstract_user"}, "product": {"product_sku": "39807"}, "timestamp": 1629827596}
